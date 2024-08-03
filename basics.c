@@ -1,3 +1,14 @@
+// Question: How can you manipulate strings in C using standard library functions?
+// Example:
+// Input: str1 = "Bro", str2 = "Code"
+// Operations and Outputs:
+// str1 lowercase: "bro"
+// str2 uppercase: "CODE"
+// str1 + str2: "broCODE"
+// str1 + first 3 characters of str2: "broCODECOD"
+// str2 is copied to str1: "CODE"
+// str1 + first 3 characters of str2: "CODODE"
+
 #include<stdio.h>
 #include<string.h>
 

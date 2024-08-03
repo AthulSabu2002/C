@@ -1,3 +1,8 @@
+// Question: How can you write a function in C to reverse the elements of an integer array in place?
+// Example:
+// Input: {11, 22, 33, 44, 55, 66, 77}
+// Output: {77, 66, 55, 44, 33, 22, 11}
+
 #include<stdio.h>
 
 void reverse_array(int *nums, int n){

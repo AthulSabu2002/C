@@ -1,3 +1,6 @@
+
+// Question: How can you write a function in C to traverse and print the elements of an integer array?
+
 #include<stdio.h>
 
 void traverse(int *arr, int n){

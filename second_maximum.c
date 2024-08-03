@@ -1,3 +1,13 @@
+// Question: How can you write a C program to find the second maximum value among three given numbers?
+// Example:
+// Input: 5 1 3
+// Output: 3
+//
+// Explanation:
+// The function `second_max` compares the three numbers to determine which is the second highest. 
+// For the input values 5, 1, and 3, the function identifies 3 as the second highest number.
+
+
 #include<stdio.h>
 
 int second_max(int a, int b, int c){
