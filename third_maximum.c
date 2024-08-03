@@ -13,6 +13,8 @@ The second distinct maximum is 2.
 The third distinct maximum is 1.
 Example 2:
 
+
+
 Input: nums = [1,2]
 Output: 2
 Explanation:
